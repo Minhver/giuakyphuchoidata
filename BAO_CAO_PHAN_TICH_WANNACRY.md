@@ -1,4 +1,4 @@
-# BÁO CÁO PHÂN TÍCH MÃ ĐỘC WANNACRY
+sudo apt update && sudo apt install -y pandoc# BÁO CÁO PHÂN TÍCH MÃ ĐỘC WANNACRY
 
 ## Bước 1: Chuẩn bị môi trường an toàn (Environment Setup)
 - Môi trường thử nghiệm: GitHub Codespaces (Ubuntu Linux Container cô lập).
